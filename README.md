@@ -1,5 +1,10 @@
 # Hello! My name is Alexandre Coussediere, ![GitHub Contributors Image](https://contrib.rocks/image?repo=AlexandreCoussediere/Profile)
 
+### **Read this in other languages :**
+[🇫🇷 Français](https://github.com/AlexandreCoussediere/Profile/blob/main/translations/Lisez-moi.md) |
+[🇪🇸 Español](#) |
+[🇧🇷 Português](#)
+
 **High school student** passionate about **computer science**, **languages**, and **hands-on projects**. I am looking for opportunities to develop my technical skills, collaborate on stimulating initiatives, and contribute to innovative projects; I am proficient in **Python**, **HTML/CSS**, and **JavaScript**. My goal? To **grow both technically and personally** in a challenging environment.  
 
 *Last updated: August 23, 2026* 

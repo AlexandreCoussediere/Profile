@@ -1,5 +1,10 @@
 # Olá! Meu nome é Alexandre Coussediere, ![Imagem de contribuidores do GitHub](https://contrib.rocks/image?repo=AlexandreCoussediere/Profile)
 
+### **Leia isto em outros idiomas:**
+[🇫🇷 Français](https://github.com/AlexandreCoussediere/Profile/blob/main/translations/Lisez-moi.md) |
+[🇪🇸 Español](https://github.com/AlexandreCoussediere/Profile/blob/main/translations/Léeme.md) |
+[🇺🇸 English (US)](https://github.com/AlexandreCoussediere/Profile/blob/main/translations/Readme-us.md)
+
 Um **estudante do ensino médio** apaixonado por **ciência da computação**, **idiomas** e **projetos práticos**. Busco oportunidades para desenvolver minhas habilidades técnicas, colaborar em iniciativas empolgantes e contribuir para projetos inovadores; tenho proficiência em **Python**, **HTML/CSS** e **JavaScript**. Meu objetivo? **Crescer — tanto técnica quanto pessoalmente** — em um ambiente estimulante.
 
 *Última atualização: 23 de agosto de 2026*

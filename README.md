@@ -2,8 +2,8 @@
 
 ### **Read this in other languages :**
 [🇫🇷 Français](https://github.com/AlexandreCoussediere/Profile/blob/main/translations/Lisez-moi.md) |
-[🇪🇸 Español](#) |
-[🇧🇷 Português](#)
+[🇪🇸 Español](https://github.com/AlexandreCoussediere/Profile/blob/main/translations/L%C3%A9eme.md) |
+[🇧🇷 Português](https://github.com/AlexandreCoussediere/Profile/blob/main/translations/meLeia.md)
 
 **High school student** passionate about **computer science**, **languages**, and **hands-on projects**. I am looking for opportunities to develop my technical skills, collaborate on stimulating initiatives, and contribute to innovative projects; I am proficient in **Python**, **HTML/CSS**, and **JavaScript**. My goal? To **grow both technically and personally** in a challenging environment.  
 

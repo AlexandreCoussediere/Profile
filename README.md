@@ -9,7 +9,7 @@
 
 *Last updated: September 9, 2026*
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=AlexandreCoussediere&langs_count=20&theme=vue)](https://github-stats-extended.vercel.app/api/top-langs?username=AlexandreCoussediere&langs_count=20&theme=vue)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=AlexandreCoussediere&layout=pie&langs_count=10&theme=vue)](https://github-stats-extended.vercel.app/api/top-langs?username=AlexandreCoussediere&layout=pie&langs_count=10&theme=vue)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=AlexandreCoussediere&rank_icon=percentile&show_icons=true&theme=vue)](https://github-stats-extended.vercel.app/api?username=AlexandreCoussediere&rank_icon=percentile&show_icons=true&theme=vue)
 
 ---

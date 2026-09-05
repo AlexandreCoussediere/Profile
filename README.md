@@ -7,7 +7,8 @@
 
 **High school student** passionate about **computer science**, **languages**, and **hands-on projects**. I am looking for opportunities to develop my technical skills, collaborate on stimulating initiatives, and contribute to innovative projects; I am proficient in **Python**, **HTML/CSS**, and **JavaScript**. My goal? To **grow both technically and personally** in a challenging environment.  
 
-*Last updated: August 23, 2026* 
+*Last updated: August 23, 2026*
+
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=AlexandreCoussediere&langs_count=20&theme=vue)](https://github-stats-extended.vercel.app/api/top-langs?username=AlexandreCoussediere&langs_count=20&theme=vue)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=AlexandreCoussediere&rank_icon=percentile&show_icons=true&theme=vue)](https://github-stats-extended.vercel.app/api?username=AlexandreCoussediere&rank_icon=percentile&show_icons=true&theme=vue)
 

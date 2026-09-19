@@ -5,16 +5,21 @@
 [🇧🇷 Português](https://github.com/AlexandreCoussediere/Profile/blob/main/translations/meLeia.md) |
 [🇺🇸 English (US)](https://github.com/AlexandreCoussediere/Profile/blob/main/translations/Readme-us.md)
 
+---
 
-**Lycéen** passionné d'**informatique**, de **langues** et de **projets pratiques**. Je suis à la recherche d'opportunités pour développer mes compétences techniques, collaborer à des initiatives stimulantes et contribuer à des projets innovants ; je maîtrise **Python**, **HTML/CSS** et **JavaScript**. Mon objectif ? **Évoluer, tant sur le plan technique que personnel**, dans un environnement stimulant.
+## À la recherche d'un stage de Seconde !
+Je suis actuellement élève en classe de **Seconde** et je recherche activement un stage d'observation en entreprise du **14 au 25 juin 2027**. Passionné par le métier de **développeur**, je souhaite découvrir le quotidien d'une équipe technique et mettre mes compétences à profit.
 
-*Dernière mise à jour : 23 août 2026*
+*Dernière mise à jour : 19 septembre 2026*
 
 [![Statistiques GitHub](https://github-stats-extended.vercel.app/api/top-langs?username=AlexandreCoussediere&langs_count=20&theme=vue)](https://github-stats-extended.vercel.app/api/top-langs?username=AlexandreCoussediere&langs_count=20&theme=vue)
 [![GitHub Statistiques](https://github-stats-extended.vercel.app/api?username=AlexandreCoussediere&rank_icon=percentile&show_icons=true&theme=vue)](https://github-stats-extended.vercel.app/api?username=AlexandreCoussediere&rank_icon=percentile&show_icons=true&theme=vue)
 
 ---
 
+## Langages & Technologies
+
+### **Ce que je maîtrise et utilise régulièrement**
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/AlexandreCoussediere)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/AlexandreCoussediere)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/AlexandreCoussediere)
@@ -24,39 +29,40 @@
 [![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=sqlite&logoColor=white)](https://github.com/AlexandreCoussediere)
 
 
----
-
-## **Mes Compétences**
-| **Catégorie** | **Compétences** |
-|----------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
-| **Programmation** | Python, HTML, CSS, JavaScript (avec React) et bases de SQL |
-| **Langues** | Français (langue maternelle) / Anglais (niveau B1+, certifié Evalang) / Espagnol (B1) et Portugais (A1) |
-| **Compétences numériques** | Pix (480/895 points) – Validation des compétences en sécurité, création de contenu et résolution de problèmes numériques. |
-| **Outils**                  | Git, GitHub, GitLab, VS Code et Claude Code |
+### **Ce que j'explore activement**
+Curieux de nature, j'aime tester toutes les facettes du développement pour enrichir ma culture tech :
+* **Web Dev:** React.js, TypeScript
+* **Game Dev:** Unity, C#, C++, Blender
+* **App Dev:** C, C++, C#, Java
+* **Mobile App Dev:** Dart (Flutter), Kotlin, Swift
 
 ---
 
-## Mes certifications
-*(Toutes les certifications peuvent être vérifiées via le lien ci-dessous.)*
+## Mes Compétences & Certifications
 
-*[Voir les certifications](https://github.com/AlexandreCoussediere/Certification)*
+| Catégorie | Compétences & Plateformes |
+| :--- | :--- |
+| **Certifications Mimo** | Python, JavaScript, SQL, HTML, CSS, React |
+| **Codingame** | Python, JavaScript, TypeScript (Scores de **100%** pour les trois) |
+| **Compétences Numériques** | Pix (**480/895 points**) – Sécurité, création de contenu & résolution de problèmes |
+| **Langues** | Français (Maternel) • Anglais (B1+, certifié Evalang) • Espagnol (B1) • Portugais (A1) |
+| **Outils de travail** | Git, GitHub, GitLab, VS Code, Claude Code |
 
+*Toutes mes certifications peuvent être vérifiées ici : [Voir les certifications](https://github.com/AlexandreCoussediere/Certification)*
+
+---
+
+## Centres d'intérêt
+* **Informatique :** Programmation, développement web, jeux vidéo, cybersécurité.
+* **Langues :** Anglais et espagnol (scolaire), portugais (en autodidacte).
+* **Autres :** Échecs, sport, écologie.
 
 ---
 
 ## Me contacter
-- **E-mail** : [alcoussediere@yahoo.com](mailto:alcoussediere@yahoo.com)
-- **GitHub** : [https://github.com/AlexandreCoussediere](https://github.com/AlexandreCoussediere)
----
-
-## **Centres d'intérêt**
-- **Informatique** : Programmation, développement web, jeux vidéo, cybersécurité.
-- **Langues** : Anglais et espagnol (appris à l'école), portugais (en autodidacte).
-- **Autres** : Écologie, sport, échecs.
+Si mon profil correspond à votre équipe ou que vous avez des opportunités de stage à me proposer :
+* **E-mail** : [alcoussediere@yahoo.com](mailto:alcoussediere@yahoo.com)
+* **GitHub** : [@AlexandreCoussediere](https://github.com)
 
 ---
-## **À propos de moi**
-Passionné de technologie et de langues, je suis **autodidacte, rigoureux et toujours désireux d'apprendre**. Je suis capable d'**apprendre en autonomie** (certifications, projets) et de **travailler en équipe** (collaborations académiques ou personnelles). Mon objectif ? **Contribuer à des projets innovants** tout en développant mes compétences techniques et relationnelles.
-
----
-***Note** : Ce dépôt est en constante évolution ! Je travaille régulièrement sur de nouveaux projets.*
+**Note** : Ce dépôt est en constante évolution ! Je travaille régulièrement sur de nouveaux projets pour préparer mon avenir dans la tech.
